@@ -1,0 +1,1 @@
+{"version":3,"sources":["style/main.scss"],"names":[],"mappings":"AAAA;AAAA;EAEE;;;AAGF;EACE;EACA","file":"main.3d6386d6.css","sourceRoot":"..","sourcesContent":["html,\nbody {\n  margin: 0;\n}\n\n.map {\n  width: 100vw;\n  height: 100vh;\n}\n"]}

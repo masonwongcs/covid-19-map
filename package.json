@@ -1,0 +1,19 @@
+{
+  "name": "covid-19-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@amcharts/amcharts4": "^4.9.11",
+    "@amcharts/amcharts4-geodata": "^4.1.13",
+    "babel-polyfill": "^6.26.0"
+  },
+  "devDependencies": {
+    "sass": "^1.26.3"
+  }
+}
